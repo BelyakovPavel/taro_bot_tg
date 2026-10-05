@@ -61,8 +61,3 @@ internal/payment/   интеграция платежей (заглушка)
 ```bash
 go test ./...
 ```
-
-## Документация
-
-- [PRIVACY.md](PRIVACY.md) — политика обработки данных
-- [SECURITY_AUDIT.md](SECURITY_AUDIT.md) — результаты аудита безопасности
